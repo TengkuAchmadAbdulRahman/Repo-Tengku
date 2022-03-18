@@ -1,0 +1,6 @@
+Nama 	: Tengku Achmad Abdul Rahman
+NIM	: 6701204079
+TTL	: Kediri, 13 Juli 2002
+IPK	: 3.88
+Hobby	: Membaca
+Cita - cita : Full Stack Developer
